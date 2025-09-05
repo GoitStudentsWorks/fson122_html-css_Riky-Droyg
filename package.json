@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-project-04/",
+    "build": "vite build --base=/fson122_html-css_Riky-Droyg/",
     "preview": "vite preview"
   },
   "devDependencies": {
